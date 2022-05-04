@@ -1,4 +1,5 @@
 git clone 
 git add NOME FILE
+git stage NOME FILE
 git commit -m DESCRIZIONE DEL COMMIT
 git push NOME REPOSITORY
